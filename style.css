@@ -1,0 +1,21 @@
+h1, h3{
+    text-align: center;
+}
+
+a{
+    margin: 25px;
+}
+
+.botaoIndex{
+    margin-left: 25%;
+    margin-right: auto;
+}
+
+
+td{
+    text-align: center;
+}
+
+.indiceTabela{
+    text-align: center;
+}

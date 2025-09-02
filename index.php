@@ -2,9 +2,8 @@
 include 'pedaco.php'
 ?>
     <div class="container">
-        
-        <a href="form_cadastra.php" type="a" class="btn btn-outline-warning">Cadastrar produto</a>
-        <a href="listar.php" type="a" class="btn btn-outline-danger">Listar produtos</a>
+        <a href="form_cadastra.php" type="a" class="btn btn-outline-warning botaoIndex">Cadastrar produto</a>
+        <a href="listar.php" type="a" class="btn btn-outline-danger botaoIndex">Listar produtos</a>
     </div>
 
 
